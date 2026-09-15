@@ -1,5 +1,5 @@
 # DeHash
-**The Ultimate Python & Jupyter Comment Ninja**
+**The Ultimate Python & Jupyter Comment Cleaner**
 
 Tired of messy code files cluttered with old notes, commented-out code, and random `# TODOs`? Meet **DeHash**! 
 
@@ -29,14 +29,14 @@ Unlike clunky regex scripts that accidentally delete `#` symbols hiding inside y
 
 1. Clone this repository or download the script directly:
    ```bash
-   git clone [https://github.com/yourusername/dehash.git](https://github.com/yourusername/dehash.git)
+   git clone [https://github.com/ManitShukla/DeHash.git](https://github.com/ManitShukla/DeHash.git)
    ```
 
 2. Navigate to the folder:
-```bash
-cd dehash
+   ```bash
+   cd dehash
 
-```
+   ```
 
 
 
