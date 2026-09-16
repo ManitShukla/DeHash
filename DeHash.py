@@ -23,7 +23,7 @@ HIGHLIGHT_LINE = "#3b3b3b"
 class CommentRemoverApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Python & Jupyter Comment Remover")
+        self.root.title("DeHash")
         self.root.geometry("1100x650")
         self.root.config(bg=BG_MAIN)
         
